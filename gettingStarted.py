@@ -25,9 +25,9 @@ if __name__ == "__main__":
 
 #Questions:
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":pcap
-#"Are encoding and encryption the same? - Yes/No":No
+#"Are encoding and encryption the same? - Yes/No":Yes
 #"Is it possible to decrypt a message without a key? - Yes/No":No
-#"Is it possible to decode a message without a key? - Yes/No":Yes
+#"Is it possible to decode a message without a key? - Yes/No":No
 #"Is a hashed message supposed to be un-hashed? - Yes/No":No
 #"What is the SHA256 hashing value of your NYU email and use the answer in your code - ":96124454d2d17c4ea9c1ee153dbfe111e8203622fc22c9aa7e909f8ffcb874ff
 #"Is MD5 a secured hashing algorithm? - Yes/No":No
