@@ -29,7 +29,7 @@ if __name__ == "__main__":
 #"Is it possible to decrypt a message without a key? - Yes/No":No
 #"Is it possible to decode a message without a key? - Yes/No":Yes
 #"Is a hashed message supposed to be un-hashed? - Yes/No":No
-#"What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
+#"What is the SHA256 hashing value of your NYU email and use the answer in your code - ":96124454d2d17c4ea9c1ee153dbfe111e8203622fc22c9aa7e909f8ffcb874ff
 #"Is MD5 a secured hashing algorithm? - Yes/No":No
 #"What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":int(4)
 #"What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":int(3)
